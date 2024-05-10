@@ -12,6 +12,3 @@ We are also working on opening it to all zkp projects. A detailed guide will be 
 
 ### Taiko A7 Hekla
 http://taiko-a7-prover.zkpool.io
-
-### Taiko A6 Katla
-http://taiko-a6-prover.zkpool.io
